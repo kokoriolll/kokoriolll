@@ -34,6 +34,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ### 其他
+<div style='display:flex'>
 <img width='50' height='50' title='mysql' style='margin-left:15px;' src='assest/mysql.png' />
 <img width='70' height='50' title='nginx' style='margin-left:15px;' src='assest/nginx.png' />
+</div>
 
