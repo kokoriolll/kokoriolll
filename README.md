@@ -10,10 +10,10 @@ You can click the Preview link to take a look at your changes.
 
 # 👋 Hi, I’m @kokoriolll！
 
-| name                                                      | desc                                 | info                                                         |
-|-----------------------------------------------------------| ------------------------------------ | ------------------------------------------------------------ |
-| [MyVue3Template](https://github.com/kokoriolll/vue3-ts-vite-template) | 开箱即用的Vue3框架  |[![github](https://img.shields.io/github/stars/kokoriolll/vue3-ts-vite-template)](https://github.com/kokoriolll/vue3-ts-vite-template) |
-| [MyVue3Template](https://github.com/kokoriolll/myvueproject-vue-elementui) | 开箱即用的Vue2框架  |[![github](https://img.shields.io/github/stars/kokoriolll/myvueproject-vue-elementui](https://github.com/kokoriolll/myvueproject-vue-elementui) |
+| name                                                                  | desc        | info                                                         |
+|-----------------------------------------------------------------------|-------------| ------------------------------------------------------------ |
+| [MyVue3Template](https://github.com/kokoriolll/vue3-ts-vite-template) | 开箱即用的Vue3框架 |[![github](https://img.shields.io/github/stars/kokoriolll/vue3-ts-vite-template)](https://github.com/kokoriolll/vue3-ts-vite-template) |
+| [MyVue2Template](https://github.com/kokoriolll/myvueproject-vue-elementui) | 开箱即用的Vue2框架 |[![github](https://img.shields.io/github/stars/kokoriolll/myvueproject-vue-elementui)](https://github.com/kokoriolll/myvueproject-vue-elementui) |
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kokoriolll&show_icons=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokoriolll&layout=compact" />
